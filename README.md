@@ -1,4 +1,4 @@
 # dio-wireframe-midfidelity
-Página única desenvolvida como estudo sobre um aplicativo de leitura de partituras/tablaturas, onde você pode importar suas músicas e acompanhar o progresso de aprendizado.
+Wireframe desenvolvido como projeto de estudo sobre um aplicativo de leitura de partituras/tablaturas, onde você pode importar suas músicas e acompanhar o progresso de aprendizado. O aplicativo também conta com um afinador cromático.
 
-https://www.figma.com/file/UYWu71uQRMm33oVRVLKb0U/Wireframe-M%C3%A9dia-Fidelidade-DIO?type=design&node-id=0%3A1&mode=design&t=5jn5iHsBKgZorV9n-1
+https://www.figma.com/file/UYWu71uQRMm33oVRVLKb0U/Forma%C3%A7%C3%A3o-UX-Designer-DIO?type=design&mode=design&t=9WSZbHfqAQ8Hvsmg-1
