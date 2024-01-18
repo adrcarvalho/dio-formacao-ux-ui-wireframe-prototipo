@@ -6,9 +6,9 @@ Futuramente o aplicativo contará com um fórum para que seus usuários possam i
 
 <br><b>O projeto contém:</b>
 
-•	Briefing inicial <br>•	Wireframe em média fidelidade das telas produzidas até o momento para o aplicativo TABMaster.<br>•	Design System, contendo informações sobre cores, tipografia e iconografia usadas no projeto.<br>•	Protótipo navegável do aplicativo.
+•	Briefing inicial <br>•	Wireframe em média fidelidade das telas produzidas até o momento para o aplicativo TABMaster.<br>•	Design System, contendo informações sobre cores, tipografia e iconografia usadas no projeto.<br>•	Protótipo navegável do aplicativo baseado em um modelo de iPhone 14 Pro.
 
 Acesse a última versão do projeto em tempo real online:
-https://www.figma.com/file/UYWu71uQRMm33oVRVLKb0U/Forma%C3%A7%C3%A3o-UX-Designer-DIO?type=design&mode=design&t=9WSZbHfqAQ8Hvsmg-1
+https://www.figma.com/file/UYWu71uQRMm33oVRVLKb0U/Forma%C3%A7%C3%A3o-UX-Designer-DIO
 
 https://www.dio.me
